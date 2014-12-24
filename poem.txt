@@ -1,0 +1,4 @@
+Roses are #ff0000
+Violets are #0000ff
+I know git
+How about you
